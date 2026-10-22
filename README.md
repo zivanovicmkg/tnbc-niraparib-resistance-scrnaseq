@@ -115,7 +115,7 @@ used moments on 30 neighbours (66 velocity genes), whereas the sweep reference u
 
 ## Citation
 
-If you use this code, please cite the manuscript (see `CITATION.cff`).
+Until the article is published, please cite this repository (see `CITATION.cff`). The article reference will be added on publication.
 
 ## License
 
