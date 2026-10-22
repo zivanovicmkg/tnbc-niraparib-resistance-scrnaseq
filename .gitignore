@@ -1,0 +1,27 @@
+# data (GEO / Zenodo, not GitHub)
+*.h5ad
+*.h5ad.bak*
+*.loom
+*.h5
+*.mtx
+*.mtx.gz
+*.bam
+*.fastq*
+*.txt.gz
+*.csv.gz
+data/
+
+# figure outputs
+*.tiff
+*.tif
+*.pdf
+*.png
+*.jpg
+
+# python / editors
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store

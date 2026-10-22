@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "Niraparib resistance in MDA-MB-231: single-cell transcriptomics and RNA velocity (analysis code)"
+authors:
+  - family-names: Živanović
+    given-names: Marko
+    orcid: "https://orcid.org/0000-0002-8833-8035"
+license: MIT
+repository-code: "https://github.com/OWNER/niraparib-mda231-scrna"
+preferred-citation:
+  type: article
+  title: "Functional and single-cell transcriptomic characterization of niraparib resistance following long-term PARP inhibition in triple-negative breast cancer"
+  authors:
+    - family-names: Živanović
+      given-names: Marko
+  journal: "TBD"
+  year: 2026
